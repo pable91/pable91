@@ -28,5 +28,5 @@
 
 ### 🤝 Open Source Contributions
 - **Veld**
-  - Contributed to the project by improving functionality and code quality  
+  - Improved test coverage for the ValueResolver class with extensive unit tests.
   - 🔗 https://github.com/yasmramos/Veld/pull/180
