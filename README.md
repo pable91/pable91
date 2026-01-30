@@ -13,13 +13,6 @@
 
 &nbsp;
 
-<div align="center">
-  <h2> 🛠Tools </h2>
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=Git&logoColor=white">
-  <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"> <img src="https://img.shields.io/badge/Travis CI-3EAAAF?style=flat-square&logo=Travis CI&logoColor=white">
-</div>
 
 
 
