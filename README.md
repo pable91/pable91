@@ -26,7 +26,3 @@
 
 &nbsp;
 
-### 🤝 Open Source Contributions
-- **Veld**
-  - Improved test coverage for the ValueResolver class with extensive unit tests.
-  - 🔗 https://github.com/yasmramos/Veld/pull/180
